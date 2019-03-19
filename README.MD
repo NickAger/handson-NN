@@ -6,7 +6,7 @@ A collections of resources to understand Neural Network.
 
 ### Prerequisites
 
-Install conda https://docs.anaconda.com/anaconda/install/ for python 3.6.
+Install conda https://docs.anaconda.com/anaconda/install/ for python 3.7.
 
 Make sure you have added theforge channel:
 
@@ -17,7 +17,7 @@ conda config --append channels conda-forge
 Then in the projec directory run:
 
 ```
-conda create --name dl_env python=3.6 --file enviroment.yaml
+conda create --name dl_env python=3.7 --file enviroment.yaml
 ```
 
 This will create our conda enviroment.
@@ -46,6 +46,28 @@ To run tensorboard simply type:
 tensorboard --logdir logs/1
 ```
 
+To see if an environment is already running:
+
+```
+$ conda info --envs
+```
+```
+# conda environments:
+#
+base                  *  /Users/nickager/anaconda3
+dl_env                   /Users/nickager/anaconda3/envs/dl_env
+
+```
+
+```
+$ conda activate dl_env
+```
+
+Running Jupyter notebook 
+
+```
+(dl_env) $ jupyter notebook 
+```
 ## Contributing
 
 Feel free to contribute with a pull request.
