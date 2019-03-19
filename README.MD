@@ -71,3 +71,21 @@ Running Jupyter notebook
 ## Contributing
 
 Feel free to contribute with a pull request.
+
+## See also
+* https://colab.research.google.com/notebooks/basic_features_overview.ipynb#scrollTo=4hfV37gxpP_c
+* https://en.wikipedia.org/wiki/Scale-invariant_feature_transform#Competing_methods
+* https://www.meetup.com/London-Reinforcement-Learning/
+* https://www.meetup.com/London-Reinforcement-Learning/members/?op=leaders
+* https://www.meetup.com/LondonArtificialIntelligence/
+* https://towardsdatascience.com/googles-adanet-uses-neural-networks-to-build-better-neural-networks-36c07eefd4d3
+* https://realpython.com/python-type-checking/
+* https://en.wikipedia.org/wiki/MNIST_database
+* https://www.nist.gov/itl/iad/image-group/emnist-dataset
+* https://deepmind.com/research/open-source/
+* https://github.com/deepmind?page=2
+* https://github.com/deepmind/lab
+* https://www.openmined.org
+* https://github.com/OpenMined/PySyft/tree/master/examples/tutorials
+* https://kogence.com/app/
+* https://play.battlesnake.io
