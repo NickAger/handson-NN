@@ -73,6 +73,7 @@ Running Jupyter notebook
 Feel free to contribute with a pull request.
 
 ## See also
+* https://github.com/ipython-contrib/jupyter_contrib_nbextensions
 * https://colab.research.google.com/notebooks/basic_features_overview.ipynb#scrollTo=4hfV37gxpP_c
 * https://en.wikipedia.org/wiki/Scale-invariant_feature_transform#Competing_methods
 * https://www.meetup.com/London-Reinforcement-Learning/
