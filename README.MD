@@ -90,3 +90,8 @@ Feel free to contribute with a pull request.
 * https://github.com/OpenMined/PySyft/tree/master/examples/tutorials
 * https://kogence.com/app/
 * https://play.battlesnake.io
+
+## datasets
+* https://www.datasetlist.com
+* https://archive.ics.uci.edu/ml/datasets.html
+* https://www.kaggle.com/datasets
