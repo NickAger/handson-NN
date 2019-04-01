@@ -92,6 +92,7 @@ Feel free to contribute with a pull request.
 * https://play.battlesnake.io
 * https://blog.jle.im/entries/series/+functional-models.html - trainable models with Haskell
 * [Awesome Haskell Deep Learning](https://github.com/austinvhuang/awesome-haskell-deep-learning)
+* https://mmhaskell.com/haskell-ai
 
 ## datasets
 * https://www.datasetlist.com
