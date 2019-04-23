@@ -95,6 +95,7 @@ Feel free to contribute with a pull request.
 * https://blog.jle.im/entries/series/+functional-models.html - trainable models with Haskell
 * [Awesome Haskell Deep Learning](https://github.com/austinvhuang/awesome-haskell-deep-learning)
 * https://mmhaskell.com/haskell-ai
+* [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 
 ## datasets
 * https://www.datasetlist.com
